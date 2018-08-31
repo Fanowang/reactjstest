@@ -2,7 +2,7 @@
 
 module.exports = {
     getAll: (req, res) => {
-        res.send({ message: "It's a test!" });
+        res.send({ message: "It's a test again!" });
 
         //next();
     }
